@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Ayan Qurashi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Learner and techy explorer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
